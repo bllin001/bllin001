@@ -1,5 +1,5 @@
 <h3 align="center">
-    < Hi, I'm David! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32px"> />
+    < Hi, I'm Brian! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32px"> />
 </h3>
 
 <!--
