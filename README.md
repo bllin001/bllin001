@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Languages and Tools:</h3>
 
-<div align="center">
+<div >
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bllin001" width="400px" />
 </div>
 
