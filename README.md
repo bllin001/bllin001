@@ -21,13 +21,13 @@ Graduate Research Assistant
 
 Ph.D. student in Computer Science currently studying at Old Dominion University in Norfolk, United States. As a Graduate Research Assistant, I have expertise in data processing, visualization, machine learning, deep learning, and natural language processing. I have gained a broad range of research experience across different topics, from finance and port logistics to forced migration and text accessibility for visually impaired university students. During my academic career, I have collaborated with universities in Colombia and the United States to develop computational insights about frustration toward migrants in global refugee host communities. I am proficient in multiple programming languages, including R, Python, SQL, and Power BI.
 
-*   🌍  I'm based in Norfolk, VA, USA 🇺🇸
-*   🖥️  See my portfolio at [https://bllin001.github.io/](http://bllin001.github.io/)
-*   ✉️  You can contact me at [bllin001@odu.edu](mailto:bllin001@odu.edu)
-*   🚀  I'm currently working on [Virginia Modeling, Analysis, and Simulation Center](http://vmasc.org/)
-*   🧠  I'm learning Large Language Models, Retrieval-Augmented Generation , Knowledge Graph, Deep Learning
-*   🤝  I'm open to collaborating on Machine Learning and Natural Language Processing
-*   ⚡  I am from Barranquilla, Colombia 🇨🇴, but I was born in Mainz, Germany 🇩🇪
+* 🌍  I'm based in Norfolk, VA, USA 🇺🇸
+* 🖥️  See my portfolio at [https://bllin001.github.io/](http://bllin001.github.io/)
+* ✉️  You can contact me at [bllin001@odu.edu](mailto:bllin001@odu.edu)
+* 🚀  I'm currently working on [Virginia Modeling, Analysis, and Simulation Center](http://vmasc.org/)
+* 🧠  I'm learning Large Language Models, Retrieval-Augmented Generation , Knowledge Graph, Deep Learning
+* 🤝  I'm open to collaborating on Machine Learning and Natural Language Processing
+* ⚡  I am from Barranquilla, Colombia 🇨🇴, but I was born in Mainz, Germany 🇩🇪
 
 <a href="https://www.github.com/bllin001" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/bllin001?logo=github&style=for-the-badge&color=ef4444&labelColor=1c1917" /></a><a href="https://www.x.com/bllin001" target="_blank" rel="noreferrer"><img
@@ -56,8 +56,8 @@ src="https://img.shields.io/twitter/follow/bllin001?logo=twitter&style=for-the-b
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/bllin001/hate-speech-detection" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=bllin001&repo=hate-speech-detection&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/bllin001/neural-network-app" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=bllin001&repo=neural-network-app&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/bllin001/hate-speech-detection" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=bllin001&repo=hate-speech-detection&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/bllin001/neural-network-app" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=bllin001&repo=neural-network-app&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 
-<br /><br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br /><br />
 
 <div width="100%" align="center"><a href="https://github.com/bllin001/cs833-final-project" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=bllin001&repo=cs833-final-project&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/bllin001/cs533-f23" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=bllin001&repo=cs533-f23&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
