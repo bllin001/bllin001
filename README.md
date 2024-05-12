@@ -53,6 +53,14 @@ Ph.D. student in Computer Science currently studying at Old Dominion University 
   </tr>
 </table>
 
+<table>
+  <tr style="width:100%">
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=bllin001&show_icons=true&theme=radical&hide_border=true" alt="Brian Llinas' Github Stats" width="85%"></td>
+    <td rowspan="2" valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bllin001&langs_count=10&theme=radical&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages"></td>
+  </tr>
+</table>
+
+
 <b>Top Repositories 🔥</b>
 
 <div width="100%" align="center">
