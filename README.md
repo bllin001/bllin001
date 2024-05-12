@@ -41,7 +41,7 @@ Ph.D. student in Computer Science currently studying at Old Dominion University 
 
 ## Badges
 
-<b>My GitHub Stats 📊</b>
+<b>GitHub Stats 📊</b>
 
 <table style="border: none; width: 100%;">
   <tr>
