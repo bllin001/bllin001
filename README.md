@@ -46,7 +46,7 @@ Ph.D. student in Computer Science currently studying at Old Dominion University 
 <table style="border: none; width: 100%;">
   <tr>
     <td valign="top" style="border: none; width: 55%;"><img src="https://github-readme-stats.vercel.app/api?username=bllin001&show_icons=true&theme=radical&hide_border=true" alt="Brian Llinas' Github Stats" width="100%"></td>
-    <td rowspan="2" valign="top" style="border: none; width: 55%;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bllin001&langs_count=5&theme=radical&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" width="90%" height="90%"></td>
+    <td rowspan="2" valign="top" style="border: none; width: 55%;"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bllin001&langs_count=15&theme=radical&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" width="90%" height="90%"></td>
   </tr>
   <tr>
     <td valign="top" style="border: none; width: 55%;"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bllin001&theme=radical&hide_border=true" alt="Brian Llinas' Github streaks" width="100%"></td>
