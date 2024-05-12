@@ -41,7 +41,7 @@ Ph.D. student in Computer Science currently studying at Old Dominion University 
 
 ## Badges
 
-<b>My GitHub Stats</b>
+<b>My GitHub Stats 📊</b>
 
 <table style="border: none; width: 100%;">
   <tr>
@@ -53,7 +53,7 @@ Ph.D. student in Computer Science currently studying at Old Dominion University 
   </tr>
 </table>
 
-<b>Top Repositories</b>
+<b>Top Repositories 🔥</b>
 
 <div width="100%" align="center">
   <a href="https://github.com/bllin001/hate-speech-detection" align="left">
@@ -76,5 +76,7 @@ Ph.D. student in Computer Science currently studying at Old Dominion University 
 </div>
 
 <br /><br /><br /><br /><br />
+
+<b>GitHub Trophies 🏆</b>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=bllin001&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
